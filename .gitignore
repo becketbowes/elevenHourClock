@@ -1,2 +1,4 @@
 .DS_Store
-.env.localdo
+.env.local
+package-lock.json
+package.json
